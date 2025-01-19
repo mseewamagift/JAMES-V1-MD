@@ -1,6 +1,6 @@
 
 
-<a href="https://files.catbox.moe/hmho2c.jpg"><img src="https://files.catbox.moe/hmho2c.jpg" alt="02" border="0" /></a>                     
+<a href="https://files.catbox.moe/j5scoc.jpg"><img src="https://files.catbox.moe/hmho2c.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">JAMES-MD-BOT</h1>
   </a>
 
