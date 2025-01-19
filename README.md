@@ -8,9 +8,9 @@
 <a><img src='https://files.catbox.moe/hmho2c.jpg'/></a>
 
 
-<a><img src='https://files.catbox.moe/hmho2c.jpg'/></a>
+<a><img src='https://files.catbox.moe/fsgq61.jpg'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 JAMES MD
+## PROGRESS TO DEPLOY JAMES MD
 
 
 <p align="center">
@@ -37,7 +37,7 @@
 ## HOW TO GET JAMES MD-2025 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CREATED+BY+JAMES+TEXH)](https://git.io/typing-svg)
  
 
   
